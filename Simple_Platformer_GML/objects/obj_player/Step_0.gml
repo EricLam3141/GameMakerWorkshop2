@@ -6,6 +6,8 @@ if instance_place(x, y+1, obj_block) {
 else {
 	gravity = .25
 }
+if vspeed > 12 then vspeed = 11
+
 
 
 
