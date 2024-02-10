@@ -1,8 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-jump_height = -8
-climb_speed = 2
 
-gravity_direction = 270
+
+hspeed = hspeed *-1
+image_xscale = image_xscale * -1
+
+
 
 
