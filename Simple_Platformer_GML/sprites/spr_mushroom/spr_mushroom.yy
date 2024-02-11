@@ -75,7 +75,7 @@
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"aa2b238f-6082-48da-b746-efdddae5aefe","path":"sprites/spr_mushroom/spr_mushroom.yy",},},},"Disabled":false,"id":"f1b2adc5-cf81-4954-90d4-86ebd053c650","IsCreationKey":false,"Key":9.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
-    "visibleRange": {"x":0.0,"y":0.0,},
+    "visibleRange": null,
     "volume": 1.0,
     "xorigin": 0,
     "yorigin": 0,
