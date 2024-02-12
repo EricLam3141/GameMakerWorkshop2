@@ -71,6 +71,7 @@
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
     {"id":{"name":"obj_mushroom","path":"objects/obj_mushroom/obj_mushroom.yy",},},
     {"id":{"name":"obj_monster_dead","path":"objects/obj_monster_dead/obj_monster_dead.yy",},},
+    {"id":{"name":"obj_sword","path":"objects/obj_sword/obj_sword.yy",},},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"id":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
   ],

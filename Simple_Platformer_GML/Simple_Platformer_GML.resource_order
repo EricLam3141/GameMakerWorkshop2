@@ -30,6 +30,7 @@
     {"name":"obj_controller","order":8,"path":"objects/obj_controller/obj_controller.yy",},
     {"name":"obj_mushroom","order":9,"path":"objects/obj_mushroom/obj_mushroom.yy",},
     {"name":"obj_monster_dead","order":10,"path":"objects/obj_monster_dead/obj_monster_dead.yy",},
+    {"name":"obj_sword","order":12,"path":"objects/obj_sword/obj_sword.yy",},
     {"name":"rm_end","order":1,"path":"rooms/rm_end/rm_end.yy",},
   ],
 }
