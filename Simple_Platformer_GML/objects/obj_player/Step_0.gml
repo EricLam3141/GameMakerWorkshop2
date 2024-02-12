@@ -1,5 +1,5 @@
 if obj_player.climbing {
-	vspeed = -.25
+	vspeed = -0.25
 	gravity = 0
 }
 
@@ -15,6 +15,7 @@ else {
 	climbing = false
 	sprite_index = spr_player
 }
+
 if (climbing) {
 	if (keyboard_check(vk_up)) {
 		vspeed = -climb_speed
@@ -38,7 +39,10 @@ else {
 }
 if vspeed > 12 then vspeed = 12
 
-
+if keyboard_check_pressed(ord("Z")) {
+	instance_create_layer(x,y,"Instances", obj_sword);
+	
+}
 if (keyboard_check(vk_left) and !instance_place(x-move_speed, y, obj_block) and !obj_player.climbing) {
 	x += -move_speed
 	image_xscale = -1

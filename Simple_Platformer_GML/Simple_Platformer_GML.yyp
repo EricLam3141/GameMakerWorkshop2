@@ -65,6 +65,7 @@
     {"id":{"name":"obj_monster","path":"objects/obj_monster/obj_monster.yy",},},
     {"id":{"name":"obj_flyer","path":"objects/obj_flyer/obj_flyer.yy",},},
     {"id":{"name":"obj_ladder","path":"objects/obj_ladder/obj_ladder.yy",},},
+    {"id":{"name":"rm_next","path":"rooms/rm_next/rm_next.yy",},},
     {"id":{"name":"obj_level_exit","path":"objects/obj_level_exit/obj_level_exit.yy",},},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"obj_death","path":"objects/obj_death/obj_death.yy",},},
@@ -77,6 +78,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
+    {"roomId":{"name":"rm_next","path":"rooms/rm_next/rm_next.yy",},},
     {"roomId":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
   ],
   "templateType": null,

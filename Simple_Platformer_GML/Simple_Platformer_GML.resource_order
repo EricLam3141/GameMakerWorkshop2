@@ -24,6 +24,7 @@
     {"name":"obj_monster","order":3,"path":"objects/obj_monster/obj_monster.yy",},
     {"name":"obj_flyer","order":4,"path":"objects/obj_flyer/obj_flyer.yy",},
     {"name":"obj_ladder","order":5,"path":"objects/obj_ladder/obj_ladder.yy",},
+    {"name":"rm_next","order":3,"path":"rooms/rm_next/rm_next.yy",},
     {"name":"obj_level_exit","order":6,"path":"objects/obj_level_exit/obj_level_exit.yy",},
     {"name":"Path1","order":1,"path":"paths/Path1/Path1.yy",},
     {"name":"obj_death","order":7,"path":"objects/obj_death/obj_death.yy",},
